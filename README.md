@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repo for course capstone projedt
+Repo for course capstone project
